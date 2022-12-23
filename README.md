@@ -1,4 +1,4 @@
-### Hi there 👋I am tamer mansor
+### Hi there 👋 I'm Tamer
 ## I am learning Backend using node.js
 
 👨‍💻 All of my projects are available at https://github.com/Tamer3mansor
