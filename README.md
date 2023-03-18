@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tamer
 ## I am learning Backend using node.js
 
-![GitHub Views](https://komarev.com/ghpvc/?Tamer3mansor=<Tamer3mansor>)
+![GitHub Views](https://komarev.com/ghpvc/?username=Tamer3mansor)
     
 👨‍💻 All of my projects are available at [https://github.com/Tamer3mansor](https://github.com/Tamer3mansor?tab=repositories)
 
