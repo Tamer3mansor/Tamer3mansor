@@ -1,14 +1,7 @@
 ### Hi there 👋 I'm Tamer
 ## I am learning Backend using node.js
 
-<img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg" alt="Hits">
-let xmlHttp = new XMLHttpRequest();
-xmlHttp.withCredentials = true;
-xmlHttp.onload = function() {
-    console.log('Count: ' + this.responseText);
-};
-xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count', true);
-xmlHttp.send(null);
+![GitHub Views](https://komarev.com/ghpvc/?Tamer3mansor=<Tamer3mansor>)
     
 👨‍💻 All of my projects are available at [https://github.com/Tamer3mansor](https://github.com/Tamer3mansor?tab=repositories)
 
