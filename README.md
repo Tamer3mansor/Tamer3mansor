@@ -1,8 +1,14 @@
 ### Hi there 👋 I'm Tamer
 ## I am learning Backend using node.js
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+<img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg" alt="Hits">
 
+fetch('https://hitcounter.pythonanywhere.com/count', {
+    credentials: 'include'
+})
+    .then(res => res.text())
+    .then(count => console.log('Count: ' + count))
+    
 👨‍💻 All of my projects are available at [https://github.com/Tamer3mansor](https://github.com/Tamer3mansor?tab=repositories)
 
 📫 How to reach me https://www.linkedin.com/in/tamer-mansor-05b713258/
