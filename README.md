@@ -9,6 +9,8 @@
 
 ✅full api for library As practcing  on "JWT"        https://github.com/Tamer3mansor/Library-RESTful-Api
 
+✅Chat Applicaion with socket.io                     https://github.com/Tamer3mansor/Chat-application
+
 ✅A simple project to practice DOM,function,APIs     https://github.com/Tamer3mansor/guess_word
 
 🚧Full-E-Commerce-RESTful-APIs  https://github.com/Tamer3mansor/Full-E-Commerce-RESTful-APIs
