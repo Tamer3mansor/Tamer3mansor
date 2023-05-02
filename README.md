@@ -16,16 +16,16 @@
 🚧Full-E-Commerce-RESTful-APIs  https://github.com/Tamer3mansor/Full-E-Commerce-RESTful-APIs
 
 🚧 
-<a href="https://fb.com/3hmedgomaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3hmedgomaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmedgomaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedgomaa1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bugs_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bugs_01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Ahmed-Gomaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ahmed-Gomaa1" height="30" width="40" /></a>
+📫 How to reach me 
+
+<a href="https://fb.com/3hmedgomaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TamerMansor" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tamermansor371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="TamerMansor" height="30" width="40" /></a>
+<a href="https://leetcode.com/tamermansor371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamermansor371" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 
-📫 How to reach me https://www.linkedin.com/in/tamer-mansor-05b713258/
-
+    
 ## Languages and Tools:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
