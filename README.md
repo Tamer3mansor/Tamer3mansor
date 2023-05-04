@@ -43,12 +43,12 @@
 
 <div>
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamer3mansor&show_icons=true&locale=en&layout=compact" alt="tamer3mansor"/></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tamer3mansor&show_icons=true&locale=en&layout=compact" alt="tamer3mansor"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamer3mansor&show_icons=true&locale=en" alt="tamer3mansor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamer3mansor&show_icons=true&locale=en" alt="tamer3mansor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamer3mansor&" alt="tamer3mansor" /></p>
-    </div>
+    </div> 
 
 <!--
 **Tamer3mansor/Tamer3mansor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
