@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tamer
-## I am learning Backend Developer
+## I am Backend Developer
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Tamer3mansor)
     
