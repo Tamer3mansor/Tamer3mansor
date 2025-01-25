@@ -6,8 +6,11 @@
 # 👨‍💻 My last projects
 
 <pr>
+✅ Techify is a personal blog with laravel&&Mysql     https://github.com/Tamer3mansor/Techify
 
-✅ Server site of our Graduation project "El kottab" https://github.com/Tamer3mansor/Graduation-Project
+✅ E-Commerce is an E-commerce for onlin shopping with Native php    https://github.com/Tamer3mansor/E-Commerce
+
+✅ Tech-Blog is a personal blog with native php       https://github.com/Tamer3mansor/Tech-Blog
 
 ✅Ketabk is a site for reader         https://github.com/Tamer3mansor/Ketabk
 
