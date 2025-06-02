@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 style="text-align: center;">Hi 👋, I'm Tamer </h1>
-    <h2 style="text-align: center;"> SE @blue technology🛠️  |  2023 Graduate🎉🎉</h2>
+    <h2 style="text-align: center;"> SE @Nami🛠️  |  2023 Graduate🎉🎉</h2>
     <h3>💫 About Me: </h3>
     <p>
         🌱 Currently, I'm diving into php, laravel, and DataBase to deepen my backend skills.
